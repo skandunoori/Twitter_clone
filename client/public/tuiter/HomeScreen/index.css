@@ -1,0 +1,39 @@
+
+.wd-rounded-images{
+    border-radius: 50%;
+}
+
+.wd-list-group .list-group-item{
+    background-color: #343a40;
+}
+
+.wd-post-list-group .list-group-item{
+    background-color: black;
+}
+
+.wd-card-bg{
+    background-color: black;
+}
+
+.wd-main-content-images{
+    border-radius: 10px;
+}
+
+.list-group-item.active{
+    background-color: rgb(114, 145, 196);
+    color: white;
+    border:none;
+}
+
+.wd-card-border{
+    border-radius: 10px;
+    border: 1px solid gray;
+
+}
+.wd-card-title-border{
+    border-top:1px solid gray;
+}
+
+a{
+    text-decoration: none;
+}
